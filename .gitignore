@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+.vscode/sftp.json
+logs/
+.env.local
+.cursor-server/ 
